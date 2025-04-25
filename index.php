@@ -1,5 +1,6 @@
 <?php
 // Enable error reporting for debugging purposes
+//php -S localhost:8000
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 ?>
@@ -68,5 +69,6 @@ ini_set('display_errors', 1);
     }
     ?>
 </body>
+
 
 </html>
